@@ -1,0 +1,12 @@
+mkdir 
+touch
+cd
+ls
+ls -l
+nano
+free -h
+free
+lscpu
+chmod 777
+chown
+
